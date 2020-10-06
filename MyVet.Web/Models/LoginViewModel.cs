@@ -1,7 +1,8 @@
-﻿using System.ComponentModel.DataAnnotations;
-
+﻿
 namespace MyVet.Web.Models
 {
+    using System.ComponentModel.DataAnnotations;
+
     public class LoginViewModel
     {
         [Required]
